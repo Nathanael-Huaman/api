@@ -8,7 +8,11 @@ const cors = require('cors'); // Importa el middleware CORS
 const products = JSON.parse(fs.readFileSync(path.join(__dirname, 'products.json'), 'utf-8'));
 
 // Middleware para manejar CORS
-app.use(cors()); // Aplica CORS a todas las rutas
+app.use(cors({
+    origin: 'https://react-tailwindpage-cw1rlbpz6-nathanaelhuamans-projects.vercel.app',
+    methods: ['GET', 'POST'], // Métodos permitidos
+    allowedHeaders: ['Content-Type'], // Cabeceras permitidas
+}));
 
 // Endpoint para obtener todos los productos
 app.get('/api/products', (req, res) => {
@@ -38,5 +42,6 @@ const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
 });
+
 
 
