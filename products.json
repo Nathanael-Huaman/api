@@ -1,0 +1,483 @@
+[
+    {
+      "id": 1,
+      "title": "Casual T-Shirt",
+      "price": 19.99,
+      "description": "A comfortable and stylish casual T-shirt for everyday wear.",
+      "category": "Clothes",
+      "image": "https://media.istockphoto.com/id/1323480815/es/foto/camiseta-de-la-marina.jpg?s=2048x2048&w=is&k=20&c=UzI8vTNz9S5rI9FYOZr3-FNsrEaGMTgvDk0uTNORcGA=",
+      "rating": {
+        "rate": 4.5,
+        "count": 50
+      }
+    },
+    {
+      "id": 2,
+      "title": "Blue Jeans",
+      "price": 49.99,
+      "description": "Classic blue jeans with a modern fit.",
+      "category": "Clothes",
+      "image": "https://cdn.shopify.com/s/files/1/0769/2622/2614/files/darkwashfixfront.webp?v=1702072055",
+      "rating": {
+        "rate": 4.0,
+        "count": 100
+      }
+    },
+    {
+      "id": 3,
+      "title": "Summer Dress",
+      "price": 29.99,
+      "description": "Light and airy summer dress perfect for warm days.",
+      "category": "Clothes",
+      "image": "https://media.istockphoto.com/id/178851955/es/foto/flowery-evase-bateau-vestido-amarillo.jpg?s=612x612&w=0&k=20&c=uvDmwjfwRKjQkQTMQdbOVsiXpIEJr6bILYvmybm3_4k=",
+      "rating": {
+        "rate": 4.7,
+        "count": 30
+      }
+    },
+    {
+      "id": 4,
+      "title": "Winter Jacket",
+      "price": 89.99,
+      "description": "Warm and durable winter jacket for cold weather.",
+      "category": "Clothes",
+      "image": "https://media.istockphoto.com/id/483534063/es/foto/chaqueta-de-invierno-aislado-en-blanco.jpg?s=612x612&w=0&k=20&c=zHJ9MSZRS8-JoZM8H-97dmxcuDj-Mic_4dYIB93oZoE=",
+      "rating": {
+        "rate": 4.8,
+        "count": 25
+      }
+    },
+    {
+      "id": 5,
+      "title": "Sneakers",
+      "price": 59.98,
+      "description": "Comfortable and stylish sneakers for everyday use.",
+      "category": "Clothes",
+      "image": "https://media.istockphoto.com/id/1411475205/es/foto/zapatillas-negras-en-la-punta-aisladas-sobre-blancas.jpg?s=612x612&w=0&k=20&c=yq02E2MI9hCV99DK42vmoy7Z2RiPLFnRtOqRMM4RzHk=",
+      "rating": {
+        "rate": 4.3,
+        "count": 80
+      }
+    },
+    {
+      "id": 6,
+      "title": "Formal Shirt",
+      "price": 39.99,
+      "description": "Elegant formal shirt for business and special occasions.",
+      "category": "Clothes",
+      "image": "https://media.istockphoto.com/id/856917576/es/foto/camisa-formal-con-bot%C3%B3n-cuello-aislado-en-blanco.jpg?s=612x612&w=0&k=20&c=nwdILjs01MCkMPoWcpZ5LsnH6AUn2BAqpySmPHzplUk=",
+      "rating": {
+        "rate": 4.2,
+        "count": 40
+      }
+    },
+    {
+      "id": 7,
+      "title": "Hoodie",
+      "price": 49.99,
+      "description": "Comfortable hoodie perfect for casual wear.",
+      "category": "Clothes",
+      "image": "https://media.istockphoto.com/id/1177415728/es/foto/plantilla-de-sudadera-con-capucha-en-blanco-negro-para-hombre-de-dos-lados-forma-natural-en.jpg?s=612x612&w=0&k=20&c=1tjHjdwlI9Jw_QxJ-LldLvrJq77EF4LgZr47AheyKNc=",
+      "rating": {
+        "rate": 4.6,
+        "count": 60
+      }
+    },
+    {
+      "id": 8,
+      "title": "Shorts",
+      "price": 24.99,
+      "description": "Light and comfortable shorts for summer days.",
+      "category": "Clothes",
+      "image": "https://media.istockphoto.com/id/697913308/es/foto/naranja-hombres-cortos-para-nadar.jpg?s=612x612&w=0&k=20&c=q_jJUImKpTpOXt4IIPGCxJVb1hhuOXxzZeJOiViOovc=",
+      "rating": {
+        "rate": 4.1,
+        "count": 45
+      }
+    },
+    {
+      "id": 9,
+      "title": "Skirt",
+      "price": 34.99,
+      "description": "Elegant skirt perfect for both casual and formal occasions.",
+      "category": "Clothes",
+      "image": "https://media.istockphoto.com/id/882157056/es/foto/falda-roja-elegante-con-mo%C3%B1o-de-cinta-aislado-en-blanco.jpg?s=612x612&w=0&k=20&c=v0w57hWYPAhVTWWeVWCrRueUDg1C9vntGWT45nVJEvk=",
+      "rating": {
+        "rate": 4.4,
+        "count": 35
+      }
+    },
+    {
+      "id": 10,
+      "title": "Blazer",
+      "price": 79.99,
+      "description": "Stylish blazer for formal and semi-formal events.",
+      "category": "Clothes",
+      "image": "https://media.istockphoto.com/id/1152838910/es/foto/blazer-de-color-azul-oscuro-macho-en-fondo-aislado.jpg?s=612x612&w=0&k=20&c=8i4-E2yYaPXrSRPHFE1xJzJuSTtxbciMGmhyCM5-t4I=",
+      "rating": {
+        "rate": 4.5,
+        "count": 20
+      }
+    },
+    {
+      "id": 11,
+      "title": "Wireless Headphones",
+      "price": 199.99,
+      "description": "High-quality wireless headphones with noise cancellation.",
+      "category": "Electronics",
+      "image": "https://media.istockphoto.com/id/1412240771/es/foto/auriculares-sobre-fondo-blanco.jpg?s=612x612&w=0&k=20&c=PHZq4OMYLZgDQLUHeAGl0TF4CtSsxyld0Ju_NFfKlaU=",
+      "rating": {
+        "rate": 4.7,
+        "count": 150
+      }
+    },
+    {
+      "id": 12,
+      "title": "Smartphone",
+      "price": 699.99,
+      "description": "Latest model smartphone with cutting-edge features.",
+      "category": "Electronics",
+      "image": "https://media.istockphoto.com/id/1415633498/es/vector/maqueta-de-tel%C3%A9fono-inteligente-realista-en-3d-de-alta-calidad-aislada-con-pantalla-blanca.jpg?s=612x612&w=0&k=20&c=U2A-9bv4Bo75sMvC94TS6bKHzZppWWbfAIrDSvwvggs=",
+      "rating": {
+        "rate": 4.8,
+        "count": 120
+      }
+    },
+    {
+      "id": 13,
+      "title": "Laptop",
+      "price": 999.99,
+      "description": "High-performance laptop for work and play.",
+      "category": "Electronics",
+      "image": "https://media.istockphoto.com/id/164637079/es/foto/computadora-port%C3%A1til.jpg?s=612x612&w=0&k=20&c=ewYxqZ3mxF6sUUEwTDVP1ttledMxWRBALgDW5zmJVB4=",
+      "rating": {
+        "rate": 4.6,
+        "count": 90
+      }
+    },
+    {
+      "id": 14,
+      "title": "Tablet",
+      "price": 499.99,
+      "description": "Portable and powerful tablet for on-the-go use.",
+      "category": "Electronics",
+      "image": "https://media.istockphoto.com/id/1392114388/es/vector/maqueta-vectorial-de-tableta-maqueta-de-tablet-e-book-dispositivo-tecnol%C3%B3gico-tableta-con.jpg?s=612x612&w=0&k=20&c=QmG6tr_7ZAX045d7tFLZlKxehPO-U9tMQ36waEe6QqQ=",
+      "rating": {
+        "rate": 4.5,
+        "count": 70
+      }
+    },
+    {
+      "id": 15,
+      "title": "Smartwatch",
+      "price": 199.99,
+      "description": "Smartwatch with various health and connectivity features.",
+      "category": "Electronics",
+      "image": "https://media.istockphoto.com/id/515311485/es/vector/reloj-inteligente.jpg?s=612x612&w=0&k=20&c=abJX3ZFIgALknilmdHl3XgpndG1gXJciSIuly_MaV_U=",
+      "rating": {
+        "rate": 4.4,
+        "count": 85
+      }
+    },
+    {
+      "id": 16,
+      "title": "Camera",
+      "price": 749.99,
+      "description": "High-quality digital camera for professional photography.",
+      "category": "Electronics",
+      "image": "https://media.istockphoto.com/id/185278433/es/foto/c%C3%A1mara-de-fotograf%C3%ADa-digital.jpg?s=612x612&w=0&k=20&c=YHINvXIpTvMvyr5vZe9gYRNAYwu385Ekjkno3fRjBao=",
+      "rating": {
+        "rate": 4.7,
+        "count": 50
+      }
+    },
+    {
+      "id": 17,
+      "title": "Bluetooth Speaker",
+      "price": 99.99,
+      "description": "Portable Bluetooth speaker with excellent sound quality.",
+      "category": "Electronics",
+      "image": "https://media.istockphoto.com/id/1395191584/es/foto/altavoz-bluetooth-aislado-en-blanco.jpg?s=612x612&w=0&k=20&c=OSmoerxyhHz3vFoZTKK4L9okZo5bFpUSNI3j-yBJm6g=",
+      "rating": {
+        "rate": 4.6,
+        "count": 60
+      }
+    },
+    {
+      "id": 18,
+      "title": "Smart TV",
+      "price": 1199.99,
+      "description": "Smart TV with 4K resolution and streaming capabilities.",
+      "category": "Electronics",
+      "image": "https://media.istockphoto.com/id/863399504/es/foto/pantalla-grande-de-televisi%C3%B3n-smart-tv.jpg?s=612x612&w=0&k=20&c=hhokqRUbYxHmaxK-sgvkbenpyh16qigeOvdyMMEkLw4=",
+      "rating": {
+        "rate": 4.8,
+        "count": 40
+      }
+    },
+    {
+      "id": 19,
+      "title": "Gaming Console",
+      "price": 499.99,
+      "description": "Next-gen gaming console with immersive gaming experience.",
+      "category": "Electronics",
+      "image": "https://media.istockphoto.com/id/801911102/es/foto/bangkok-tailandia-25-de-junio-de-2017-interruptor-de-nintendo-la-consola-video-del-juego-de.jpg?s=612x612&w=0&k=20&c=plPilwTGY641tlflOyenVtWWM1mpxj6f9JtqusMRB8Y=",
+      "rating": {
+        "rate": 4.9,
+        "count": 55
+      }
+    },
+    {
+      "id": 20,
+      "title": "Office Desk",
+      "price": 249.99,
+      "description": "Sturdy office desk with ample storage space.",
+      "category": "Furnitures",
+      "image": "https://media.istockphoto.com/id/1254646139/es/foto/c%C3%B3modo-lugar-de-trabajo-con-plantas-en-macetas-organizador-de-paredes-im%C3%A1genes-y-computadora.jpg?s=612x612&w=0&k=20&c=MMLsjIVT87AWTRbq4INMVYWd847XHYVDhspq_u2b9pY=",
+      "rating": {
+        "rate": 4.5,
+        "count": 30
+      }
+    },
+    {
+      "id": 21,
+      "title": "Modern Sofa",
+      "price": 799.99,
+      "description": "Comfortable and stylish modern sofa for living room.",
+      "category": "Furnituress",
+      "image": "https://media.istockphoto.com/id/1031444360/es/foto/cartel-sobre-blanco-con-planta-junto-al-sof%C3%A1-gris-simple-sal%C3%B3n-interior-foto-real.jpg?s=612x612&w=0&k=20&c=vxlVAkpNYbt8sL5rTa5mSbLNFxGUFDKm5WkxHMfjGYc=",
+      "rating": {
+        "rate": 4.6,
+        "count": 25
+      }
+    },
+    {
+      "id": 22,
+      "title": "Dining Table",
+      "price": 499.99,
+      "description": "Wooden dining table with elegant design.",
+      "category": "Furnitures",
+      "image": "https://media.istockphoto.com/id/1329937916/es/foto/interior-del-comedor-dom%C3%A9stico-escandinavo.jpg?s=612x612&w=0&k=20&c=VYz-HQS_GfiJ6xbF2KQhJlLBfVL_wPX4y3_C8-o-0Q0=",
+      "rating": {
+        "rate": 4.3,
+        "count": 35
+      }
+    },
+    {
+      "id": 23,
+      "title": "Bed Frame",
+      "price": 299.99,
+      "description": "Sturdy bed frame with modern aesthetics.",
+      "category": "Furnitures",
+      "image": "https://media.istockphoto.com/id/1193385037/es/foto/casa-en-movimiento.jpg?s=612x612&w=0&k=20&c=wiBx92ZEojWrQgfVIV-nFXIQPZglK1FYQuaB6O832hM=",
+      "rating": {
+        "rate": 4.4,
+        "count": 40
+      }
+    },
+    {
+      "id": 24,
+      "title": "Bookshelf",
+      "price": 149.99,
+      "description": "Tall bookshelf with multiple shelves for storage.",
+      "category": "Furnitures",
+      "image": "https://media.istockphoto.com/id/1132292826/es/foto/interior-tradicional-de-la-biblioteca-dom%C3%A9stica.jpg?s=612x612&w=0&k=20&c=HXR9VDikUkUIpAH4j1v9WmPNC5btmvGUi-4orKgiU0I=",
+      "rating": {
+        "rate": 4.2,
+        "count": 20
+      }
+    },
+    {
+      "id": 25,
+      "title": "Crib",
+      "price": 199.99,
+      "description": "Sturdy crib for babies with safety features.",
+      "category": "Furnitures",
+      "image": "https://media.istockphoto.com/id/488366967/es/foto/cuna-ilustraci%C3%B3n-3d-aislado-en-blanco.jpg?s=612x612&w=0&k=20&c=bDLsEpT5_RZMIFLEEP27Fqbh7DnQEAZZhkdOi4kS5GE=",
+      "rating": {
+        "rate": 4.7,
+        "count": 15
+      }
+    },
+    {
+      "id": 26,
+      "title": "Bean Bag Chair",
+      "price": 79.99,
+      "description": "Comfortable and fun bean bag chair for relaxation.",
+      "category": "Furnitures",
+      "image": "https://media.istockphoto.com/id/1393273445/es/foto/silla-de-bolsa-gris-o-sill%C3%B3n-de-frijoles-en-casa-en-la-sala-de-estar.jpg?s=612x612&w=0&k=20&c=BiOO6FM0Cf-Cw4IjBmQgZ6e9UVzvb8q0uer79pbtfnc=",
+      "rating": {
+        "rate": 4.0,
+        "count": 10
+      }
+    },
+    {
+      "id": 27,
+      "title": "Rocking Chair",
+      "price": 129.99,
+      "description": "Classic rocking chair for indoor and outdoor use.",
+      "category": "Furnitures",
+      "image": "https://media.istockphoto.com/id/485242300/es/foto/tenga-cuidado-con-las-sillas-mecedoras-en-un-porche-del-sur.jpg?s=612x612&w=0&k=20&c=wOn4rzrPIqmgE9tvu5Sr5r7Asx70yI3KN0x3pGY103I=",
+      "rating": {
+        "rate": 4.5,
+        "count": 18
+      }
+    },
+    {
+      "id": 28,
+      "title": "Kid's Playhouse",
+      "price": 299.99,
+      "description": "Colorful playhouse for children's outdoor activities.",
+      "category": "Toys",
+      "image": "https://media.istockphoto.com/id/1139415999/es/foto/casa-de-juegos-infantiles-de-madera.jpg?s=612x612&w=0&k=20&c=eYBrYu433eoJLso6gzgBYDT150uttxoF2EBN8mlXnNw=",
+      "rating": {
+        "rate": 4.6,
+        "count": 22
+      }
+    },
+    {
+      "id": 29,
+      "title": "Remote Control Car",
+      "price": 39.99,
+      "description": "Fun remote control car for kids and hobbyists.",
+      "category": "Toys",
+      "image": "https://media.istockphoto.com/id/609819360/es/foto/control-remoto-para-helic%C3%B3pteros-drones-y-aviones.jpg?s=612x612&w=0&k=20&c=BwfZ2qI9EpeE6TpjPpV2P3W5P-HGS9weUCmOMkYwf2I=",
+      "rating": {
+        "rate": 4.3,
+        "count": 30
+      }
+    },
+    {
+      "id": 30,
+      "title": "Dollhouse",
+      "price": 89.99,
+      "description": "Detailed dollhouse with miniature Furnitures.",
+      "category": "Toys",
+      "image": "https://media.istockphoto.com/id/471688097/es/foto/decoraci%C3%B3n-rosa-casa-de-mu%C3%B1ecas-en-blanco.jpg?s=612x612&w=0&k=20&c=oNclrojco9d1GW-WHWCvClx9WCuUHPj1fyMp4J0M3Z4=",
+      "rating": {
+        "rate": 4.8,
+        "count": 25
+      }
+    },
+    {
+      "id": 31,
+      "title": "Board Game",
+      "price": 29.99,
+      "description": "Popular board game for family entertainment.",
+      "category": "Toys",
+      "image": "https://media.istockphoto.com/id/537097875/es/foto/monopolio-de-autom%C3%B3viles-en-el-hotel-en-park-place.jpg?s=612x612&w=0&k=20&c=invQTNgWuB2pryXOCzXOIwzSOccDiWlqe5AtO-UtixY=",
+      "rating": {
+        "rate": 4.2,
+        "count": 40
+      }
+    },
+    {
+      "id": 32,
+      "title": "LEGO Set",
+      "price": 49.99,
+      "description": "Creative LEGO set for building various models.",
+      "category": "Toys",
+      "image": "https://media.istockphoto.com/id/458243655/es/foto/technic-juego-de-lego.jpg?s=612x612&w=0&k=20&c=Lg6wvljnJwWdCLYtEDSHArN3RlUQS7pUhKDP4q3OLPo=",
+      "rating": {
+        "rate": 4.5,
+        "count": 35
+      }
+    },
+    {
+      "id": 33,
+      "title": "Puzzle",
+      "price": 19.99,
+      "description": "Challenging puzzle for mental stimulation.",
+      "category": "Toys",
+      "image": "https://media.istockphoto.com/id/589555158/es/foto/ni%C3%B1o-y-ni%C3%B1a-felices-recogen-rompecabezas-tirados-en-el-suelo.jpg?s=612x612&w=0&k=20&c=F5sT6Up-Dsd4hX4H8i_8J07xe-syIKxife9GTA-M5uU=",
+      "rating": {
+        "rate": 4.1,
+        "count": 45
+      }
+    },
+    {
+      "id": 34,
+      "title": "Stuffed Animal",
+      "price": 14.99,
+      "description": "Soft and cuddly stuffed animal toy for children.",
+      "category": "Toys",
+      "image": "https://media.istockphoto.com/id/1332455278/es/foto/sonrientes-osos-de-peluche-blancos-marrones-claros-y-marrones-oscuros-sentados-en-la-mesa-en.jpg?s=612x612&w=0&k=20&c=rRK4JxfL-RA7tPGEZ-4h-nnqRnRpQatMMUzxx7Ri8Oo=",
+      "rating": {
+        "rate": 4.0,
+        "count": 50
+      }
+    },
+    {
+      "id": 35,
+      "title": "Bicycle",
+      "price": 299.99,
+      "description": "Durable and stylish bicycle for all ages.",
+      "category": "Toys",
+      "image": "https://media.istockphoto.com/id/1070233662/es/foto/amarillo-negro-racing-sport-bike-bicicleta-corredor-de-la-carretera-aislado.jpg?s=612x612&w=0&k=20&c=h3Y9YQSXu5yCfCcmn5Vui5BojMvpGROpcHmvpRHWJ0w=",
+      "rating": {
+        "rate": 4.6,
+        "count": 20
+      }
+    },
+    {
+      "id": 36,
+      "title": "Drone",
+      "price": 299.99,
+      "description": "Advanced drone with HD camera for aerial photography.",
+      "category": "Electronics",
+      "image": "https://media.istockphoto.com/id/492683865/es/foto/soniquete-blanco-cielo-nublado-atardecer.jpg?s=612x612&w=0&k=20&c=gI1Q4f_432Znd4Zge9k0ncqYvm0D_50_ZGjvjmLIZc4=",
+      "rating": {
+        "rate": 4.4,
+        "count": 30
+      }
+    },
+    {
+      "id": 37,
+      "title": "Umbrella",
+      "price": 9.99,
+      "description": "Compact and lightweight umbrella for rainy days.",
+      "category": "Others",
+      "image": "https://media.istockphoto.com/id/862230294/es/foto/paraguas-negro-aislado-sobre-fondo-blanco.jpg?s=612x612&w=0&k=20&c=G7vQfU6Rj2PJeXEc3BlX6uMAICbC0RuAuk9iwAJRf7I=",
+      "rating": {
+        "rate": 3.9,
+        "count": 15
+      }
+    },
+    {
+      "id": 38,
+      "title": "Travel Backpack",
+      "price": 39.99,
+      "description": "Durable travel backpack with multiple compartments.",
+      "category": "Others",
+      "image": "https://media.istockphoto.com/id/474363305/es/foto/foto-de-estudio-de-una-mochila-con-alfombra-en-el-ejercicio.jpg?s=612x612&w=0&k=20&c=fPE3jbesxhRReLSnT4Mn5rE0zeK9zDavpAwafu8U6Ts=",
+      "rating": {
+        "rate": 4.2,
+        "count": 25
+      }
+    },
+    {
+      "id": 39,
+      "title": "Fitness Tracker",
+      "price": 79.99,
+      "description": "Fitness tracker with heart rate monitor and activity tracking.",
+      "category": "Electronics",
+      "image": "https://media.istockphoto.com/id/915454448/es/foto/monitor-de-latidos-card%C3%ADacos-en-smart-watch.jpg?s=612x612&w=0&k=20&c=JxGVAjO41jOJhx8glsbew5rGk5IC9W71kmgNFerZmaM=",
+      "rating": {
+        "rate": 4.3,
+        "count": 35
+      }
+    },
+    {
+      "id": 40,
+      "title": "Portable Charger",
+      "price": 29.99,
+      "description": "Compact portable charger for smartphones and devices.",
+      "category": "Electronics",
+      "image": "https://media.istockphoto.com/id/1459160962/es/foto/banco-de-energ%C3%ADa-para-cargar-dispositivos-m%C3%B3viles-cargador-de-tel%C3%A9fono-inteligente-negro.jpg?s=612x612&w=0&k=20&c=Eugx7LzmgHjTA_MxZPeK0rRGT60gydV4N06O_U-Ud-k=",
+      "rating": {
+        "rate": 4.1,
+        "count": 40
+      }
+    }
+  ]
+  
