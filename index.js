@@ -2,16 +2,13 @@ const express = require('express');
 const app = express();
 const fs = require('fs');
 const path = require('path');
+const cors = require('cors'); // Importa el middleware CORS
 
 // Leer el archivo products.json
 const products = JSON.parse(fs.readFileSync(path.join(__dirname, 'products.json'), 'utf-8'));
 
 // Middleware para manejar CORS
-app.use((req, res, next) => {
-    res.header("Access-Control-Allow-Origin", "*");
-    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
-    next();
-});
+app.use(cors()); // Aplica CORS a todas las rutas
 
 // Endpoint para obtener todos los productos
 app.get('/api/products', (req, res) => {
@@ -41,4 +38,5 @@ const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
 });
+
 
